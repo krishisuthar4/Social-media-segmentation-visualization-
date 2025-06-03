@@ -56,7 +56,7 @@ Highlighting how efficiently users turn time and effort into engagement — perf
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Users aged 19–25 are the most active and receive higher engagement.
 - More time spent on the platform doesn't always equal more engagement — quality of content matters.
@@ -64,9 +64,9 @@ Highlighting how efficiently users turn time and effort into engagement — perf
 
 ---
 
-## 📌 Tools Used
+## Tools Used
 
-- ✅ Microsoft Power BI (Visualization & Calculated Columns)
-- ✅ CSV File Handling
-- ✅ DAX for Column Calculations
+- Microsoft Power BI (Visualization & Calculated Columns)
+- CSV File Handling
+- DAX for Column Calculations
 
